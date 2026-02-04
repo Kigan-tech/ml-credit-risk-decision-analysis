@@ -22,7 +22,8 @@ Models used include:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Machine (if applicable)
+- Support Vector Machine (SVM)
+- Gradient Boosting
 
 **Key Findings**
 - Different models exhibit trade-offs between accuracy, interpretability, and risk
@@ -33,7 +34,7 @@ Models used include:
 
 This work demonstrates how machine learning supports responsible credit risk decisions in financial institutions, highlighting the importance of model selection, fairness, and interpretability in AI-driven systems.
 
-**Technology Used **
+**Technology Used**
 - Python
 - scikit-learn
 - pandas
