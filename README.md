@@ -33,6 +33,7 @@ Models used include:
 **Relevance to Real-World Applications**
 
 This work demonstrates how machine learning supports responsible credit risk decisions in financial institutions, highlighting the importance of model selection, fairness, and interpretability in AI-driven systems.
+<img width="1735" height="803" alt="image" src="https://github.com/user-attachments/assets/96ccbc6f-5d3c-41d9-a2b7-2b2d0093510b" />
 
 **Technology Used**
 - Python
